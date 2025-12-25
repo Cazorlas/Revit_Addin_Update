@@ -1,8 +1,9 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.0",
   "DownloadUrl": "https://github.com/Cazorlas/Revit_Addin_Update/releases/download/PaperMEP.1.0.1/Updater.zip",
   "ChangeLog": "https://raw.githubusercontent.com/Cazorlas/PaperMEP-C/refs/heads/main/CHANGELOG.md"  
 }
+
 
 
 
